@@ -8,10 +8,10 @@ The stock dataset contains 1,026 stocks collected from the NASDAQ market, with t
 ### air quality
 The air quality dataset contains the statistics of PM<sub>2.5</sub>, PM<sub>10</sub>, SO<sub>2</sub>, CO, NO<sub>2</sub>, O<sub>3</sub>, and AQI per day from 12/2/2013 to 10/31/2018(https://download.csdn.net/download/godspeedch/10627195?utm\%20source=iteye\%20new).
 ## Models
-/Net/Models_SAMA.py: end-to-end prediction framework;  
-/training/train_SAMA5.py: the 5-step SAMA indicator;  
-/training/train_SAMA20.py: the 20-step SAMA indicator;  
-/training/train_SAMA60.py: the 60-step SAMA indicator;
+* `/Net/Models_SAMA.py:` end-to-end prediction framework;  
+* `/training/train_SAMA5.py:` the 5-step SAMA indicator;  
+* `/training/train_SAMA20.py:` the 20-step SAMA indicator;  
+* `/training/train_SAMA60.py:` the 60-step SAMA indicator;
 ## Requirements
 Python >= 3.7  
 numpy  
